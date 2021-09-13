@@ -1,0 +1,16 @@
+D:\Code\c#\nhanvien\bin\Debug\net5.0\NhanVien.exe
+D:\Code\c#\nhanvien\bin\Debug\net5.0\NhanVien.deps.json
+D:\Code\c#\nhanvien\bin\Debug\net5.0\NhanVien.runtimeconfig.json
+D:\Code\c#\nhanvien\bin\Debug\net5.0\NhanVien.runtimeconfig.dev.json
+D:\Code\c#\nhanvien\bin\Debug\net5.0\NhanVien.dll
+D:\Code\c#\nhanvien\bin\Debug\net5.0\ref\NhanVien.dll
+D:\Code\c#\nhanvien\bin\Debug\net5.0\NhanVien.pdb
+D:\Code\c#\nhanvien\obj\Debug\net5.0\NhanVien.csproj.AssemblyReference.cache
+D:\Code\c#\nhanvien\obj\Debug\net5.0\NhanVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\nhanvien\obj\Debug\net5.0\NhanVien.AssemblyInfoInputs.cache
+D:\Code\c#\nhanvien\obj\Debug\net5.0\NhanVien.AssemblyInfo.cs
+D:\Code\c#\nhanvien\obj\Debug\net5.0\NhanVien.csproj.CoreCompileInputs.cache
+D:\Code\c#\nhanvien\obj\Debug\net5.0\NhanVien.dll
+D:\Code\c#\nhanvien\obj\Debug\net5.0\ref\NhanVien.dll
+D:\Code\c#\nhanvien\obj\Debug\net5.0\NhanVien.pdb
+D:\Code\c#\nhanvien\obj\Debug\net5.0\NhanVien.genruntimeconfig.cache

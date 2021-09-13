@@ -1,0 +1,5 @@
+D:\Code\c#\xe_interface\obj\Debug\net5.0\XE_interface.csproj.AssemblyReference.cache
+D:\Code\c#\xe_interface\obj\Debug\net5.0\XE_interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\xe_interface\obj\Debug\net5.0\XE_interface.AssemblyInfoInputs.cache
+D:\Code\c#\xe_interface\obj\Debug\net5.0\XE_interface.AssemblyInfo.cs
+D:\Code\c#\xe_interface\obj\Debug\net5.0\XE_interface.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+D:\Code\c#\hinhchunhat\bin\Debug\net5.0\HinhChuNhat.exe
+D:\Code\c#\hinhchunhat\bin\Debug\net5.0\HinhChuNhat.deps.json
+D:\Code\c#\hinhchunhat\bin\Debug\net5.0\HinhChuNhat.runtimeconfig.json
+D:\Code\c#\hinhchunhat\bin\Debug\net5.0\HinhChuNhat.runtimeconfig.dev.json
+D:\Code\c#\hinhchunhat\bin\Debug\net5.0\HinhChuNhat.dll
+D:\Code\c#\hinhchunhat\bin\Debug\net5.0\ref\HinhChuNhat.dll
+D:\Code\c#\hinhchunhat\bin\Debug\net5.0\HinhChuNhat.pdb
+D:\Code\c#\hinhchunhat\obj\Debug\net5.0\HinhChuNhat.csproj.AssemblyReference.cache
+D:\Code\c#\hinhchunhat\obj\Debug\net5.0\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\hinhchunhat\obj\Debug\net5.0\HinhChuNhat.AssemblyInfoInputs.cache
+D:\Code\c#\hinhchunhat\obj\Debug\net5.0\HinhChuNhat.AssemblyInfo.cs
+D:\Code\c#\hinhchunhat\obj\Debug\net5.0\HinhChuNhat.csproj.CoreCompileInputs.cache
+D:\Code\c#\hinhchunhat\obj\Debug\net5.0\HinhChuNhat.dll
+D:\Code\c#\hinhchunhat\obj\Debug\net5.0\ref\HinhChuNhat.dll
+D:\Code\c#\hinhchunhat\obj\Debug\net5.0\HinhChuNhat.pdb
+D:\Code\c#\hinhchunhat\obj\Debug\net5.0\HinhChuNhat.genruntimeconfig.cache

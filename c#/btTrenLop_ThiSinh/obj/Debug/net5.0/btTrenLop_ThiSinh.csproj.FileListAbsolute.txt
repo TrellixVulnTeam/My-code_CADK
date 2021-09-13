@@ -1,0 +1,16 @@
+D:\Code\c#\bttrenlop_thisinh\bin\Debug\net5.0\btTrenLop_ThiSinh.exe
+D:\Code\c#\bttrenlop_thisinh\bin\Debug\net5.0\btTrenLop_ThiSinh.deps.json
+D:\Code\c#\bttrenlop_thisinh\bin\Debug\net5.0\btTrenLop_ThiSinh.runtimeconfig.json
+D:\Code\c#\bttrenlop_thisinh\bin\Debug\net5.0\btTrenLop_ThiSinh.runtimeconfig.dev.json
+D:\Code\c#\bttrenlop_thisinh\bin\Debug\net5.0\btTrenLop_ThiSinh.dll
+D:\Code\c#\bttrenlop_thisinh\bin\Debug\net5.0\ref\btTrenLop_ThiSinh.dll
+D:\Code\c#\bttrenlop_thisinh\bin\Debug\net5.0\btTrenLop_ThiSinh.pdb
+D:\Code\c#\bttrenlop_thisinh\obj\Debug\net5.0\btTrenLop_ThiSinh.csproj.AssemblyReference.cache
+D:\Code\c#\bttrenlop_thisinh\obj\Debug\net5.0\btTrenLop_ThiSinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\bttrenlop_thisinh\obj\Debug\net5.0\btTrenLop_ThiSinh.AssemblyInfoInputs.cache
+D:\Code\c#\bttrenlop_thisinh\obj\Debug\net5.0\btTrenLop_ThiSinh.AssemblyInfo.cs
+D:\Code\c#\bttrenlop_thisinh\obj\Debug\net5.0\btTrenLop_ThiSinh.csproj.CoreCompileInputs.cache
+D:\Code\c#\bttrenlop_thisinh\obj\Debug\net5.0\btTrenLop_ThiSinh.dll
+D:\Code\c#\bttrenlop_thisinh\obj\Debug\net5.0\ref\btTrenLop_ThiSinh.dll
+D:\Code\c#\bttrenlop_thisinh\obj\Debug\net5.0\btTrenLop_ThiSinh.pdb
+D:\Code\c#\bttrenlop_thisinh\obj\Debug\net5.0\btTrenLop_ThiSinh.genruntimeconfig.cache

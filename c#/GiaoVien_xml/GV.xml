@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+    <GV>
+        <hoten>Lâm Thị Họa Mi</hoten>
+        <sonhom>2</sonhom>
+    </GV>
+    <GV>
+        <hoten>Dương Thị Mộng Mơ</hoten>
+        <sonhom>1</sonhom>
+    </GV>
+    <GV>
+        <hoten>Nguyễn Thị Thùy Trang</hoten>
+        <sonhom>2</sonhom>
+    </GV>
+    <GV>
+        <hoten>Nguyễn Văn Thịnh</hoten>
+        <sonhom>3</sonhom>
+    </GV>
+    <GV>
+        <hoten>Nguyễn Văn Tiến</hoten>
+        <sonhom>3</sonhom>
+    </GV>
+    <GV>
+        <hoten>Nguyễn Tuấn</hoten>
+        <sonhom>5</sonhom>
+    </GV>
+    <GV>
+        <hoten>Nguyễn Thị Bưởi</hoten>
+        <sonhom>4</sonhom>
+    </GV>
+    <GV>
+        <hoten>Nguyễn Hoàng</hoten>
+        <sonhom>5</sonhom>
+    </GV>
+</DanhSach>

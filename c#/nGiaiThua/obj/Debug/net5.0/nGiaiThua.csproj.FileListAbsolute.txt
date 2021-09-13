@@ -1,0 +1,16 @@
+D:\Code\c#\ngiaithua\bin\Debug\net5.0\nGiaiThua.exe
+D:\Code\c#\ngiaithua\bin\Debug\net5.0\nGiaiThua.deps.json
+D:\Code\c#\ngiaithua\bin\Debug\net5.0\nGiaiThua.runtimeconfig.json
+D:\Code\c#\ngiaithua\bin\Debug\net5.0\nGiaiThua.runtimeconfig.dev.json
+D:\Code\c#\ngiaithua\bin\Debug\net5.0\nGiaiThua.dll
+D:\Code\c#\ngiaithua\bin\Debug\net5.0\ref\nGiaiThua.dll
+D:\Code\c#\ngiaithua\bin\Debug\net5.0\nGiaiThua.pdb
+D:\Code\c#\ngiaithua\obj\Debug\net5.0\nGiaiThua.csproj.AssemblyReference.cache
+D:\Code\c#\ngiaithua\obj\Debug\net5.0\nGiaiThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\ngiaithua\obj\Debug\net5.0\nGiaiThua.AssemblyInfoInputs.cache
+D:\Code\c#\ngiaithua\obj\Debug\net5.0\nGiaiThua.AssemblyInfo.cs
+D:\Code\c#\ngiaithua\obj\Debug\net5.0\nGiaiThua.csproj.CoreCompileInputs.cache
+D:\Code\c#\ngiaithua\obj\Debug\net5.0\nGiaiThua.dll
+D:\Code\c#\ngiaithua\obj\Debug\net5.0\ref\nGiaiThua.dll
+D:\Code\c#\ngiaithua\obj\Debug\net5.0\nGiaiThua.pdb
+D:\Code\c#\ngiaithua\obj\Debug\net5.0\nGiaiThua.genruntimeconfig.cache

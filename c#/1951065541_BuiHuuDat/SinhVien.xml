@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+    <ThiSinh>
+        <sbd>001</sbd>
+        <HT>Nguyen Van a</HT>
+        <NamSinh>2001</NamSinh>
+        <Toan>9</Toan>
+        <Van>7</Van>
+        <NN>8</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>002</sbd>
+        <HT>Nguyen Van Tien</HT>
+        <Namsinh>2003</Namsinh>
+        <Toan>5</Toan>
+        <Van>9</Van>
+        <NN>8</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>003</sbd>
+        <HT>Nguyen Anh B</HT>
+        <NamSinh>2002</NamSinh>
+        <Toan>9</Toan>
+        <Van>7</Van>
+        <NN>5</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>004</sbd>
+        <HT>Tran Van Hang</HT>
+        <Namsinh>2001</Namsinh>
+        <Toan>9</Toan>
+        <Van>6</Van>
+        <NN>8</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>005</sbd>
+        <HT>Tran Thi B</HT>
+        <Namsinh>1995</Namsinh>
+        <Toan>6</Toan>
+        <Van>8</Van>
+        <NN>9</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>006</sbd>
+        <HT>Nguyen Thanh Tung</HT>
+        <Namsinh>1994</Namsinh>
+        <Toan>9</Toan>
+        <Van>6</Van>
+        <NN>8</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>007</sbd>
+        <HT>Nguyen Tuan C</HT>
+        <Namsinh>1994</Namsinh>
+        <Toan>5</Toan>
+        <Van>7</Van>
+        <NN>9</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>008</sbd>
+        <HT>Tran Van Anh</HT>
+        <Namsinh>1997</Namsinh>
+        <Toan>9</Toan>
+        <Van>7</Van>
+        <NN>9</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>009</sbd>
+        <HT>Cao Thi Bay</HT>
+        <Namsinh>1997</Namsinh>
+        <Toan>7</Toan>
+        <Van>7</Van>
+        <NN>7</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>010</sbd>
+        <HT>Hoang Anh Toan</HT>
+        <Namsinh>2000</Namsinh>
+        <Toan>10</Toan>
+        <Van>8</Van>
+        <NN>9</NN>
+    </ThiSinh>
+</DanhSach>

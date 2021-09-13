@@ -1,0 +1,16 @@
+D:\Code\c#\ngaythang\bin\Debug\net5.0\NgayThang.exe
+D:\Code\c#\ngaythang\bin\Debug\net5.0\NgayThang.deps.json
+D:\Code\c#\ngaythang\bin\Debug\net5.0\NgayThang.runtimeconfig.json
+D:\Code\c#\ngaythang\bin\Debug\net5.0\NgayThang.runtimeconfig.dev.json
+D:\Code\c#\ngaythang\bin\Debug\net5.0\NgayThang.dll
+D:\Code\c#\ngaythang\bin\Debug\net5.0\ref\NgayThang.dll
+D:\Code\c#\ngaythang\bin\Debug\net5.0\NgayThang.pdb
+D:\Code\c#\ngaythang\obj\Debug\net5.0\NgayThang.csproj.AssemblyReference.cache
+D:\Code\c#\ngaythang\obj\Debug\net5.0\NgayThang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\ngaythang\obj\Debug\net5.0\NgayThang.AssemblyInfoInputs.cache
+D:\Code\c#\ngaythang\obj\Debug\net5.0\NgayThang.AssemblyInfo.cs
+D:\Code\c#\ngaythang\obj\Debug\net5.0\NgayThang.csproj.CoreCompileInputs.cache
+D:\Code\c#\ngaythang\obj\Debug\net5.0\NgayThang.dll
+D:\Code\c#\ngaythang\obj\Debug\net5.0\ref\NgayThang.dll
+D:\Code\c#\ngaythang\obj\Debug\net5.0\NgayThang.pdb
+D:\Code\c#\ngaythang\obj\Debug\net5.0\NgayThang.genruntimeconfig.cache

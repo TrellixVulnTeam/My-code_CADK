@@ -1,0 +1,16 @@
+D:\Code\c#\bttrenlop_sinhvien\bin\Debug\net5.0\btTrenLop_SinhVien.exe
+D:\Code\c#\bttrenlop_sinhvien\bin\Debug\net5.0\btTrenLop_SinhVien.deps.json
+D:\Code\c#\bttrenlop_sinhvien\bin\Debug\net5.0\btTrenLop_SinhVien.runtimeconfig.json
+D:\Code\c#\bttrenlop_sinhvien\bin\Debug\net5.0\btTrenLop_SinhVien.runtimeconfig.dev.json
+D:\Code\c#\bttrenlop_sinhvien\bin\Debug\net5.0\btTrenLop_SinhVien.dll
+D:\Code\c#\bttrenlop_sinhvien\bin\Debug\net5.0\ref\btTrenLop_SinhVien.dll
+D:\Code\c#\bttrenlop_sinhvien\bin\Debug\net5.0\btTrenLop_SinhVien.pdb
+D:\Code\c#\bttrenlop_sinhvien\obj\Debug\net5.0\btTrenLop_SinhVien.csproj.AssemblyReference.cache
+D:\Code\c#\bttrenlop_sinhvien\obj\Debug\net5.0\btTrenLop_SinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\bttrenlop_sinhvien\obj\Debug\net5.0\btTrenLop_SinhVien.AssemblyInfoInputs.cache
+D:\Code\c#\bttrenlop_sinhvien\obj\Debug\net5.0\btTrenLop_SinhVien.AssemblyInfo.cs
+D:\Code\c#\bttrenlop_sinhvien\obj\Debug\net5.0\btTrenLop_SinhVien.csproj.CoreCompileInputs.cache
+D:\Code\c#\bttrenlop_sinhvien\obj\Debug\net5.0\btTrenLop_SinhVien.dll
+D:\Code\c#\bttrenlop_sinhvien\obj\Debug\net5.0\ref\btTrenLop_SinhVien.dll
+D:\Code\c#\bttrenlop_sinhvien\obj\Debug\net5.0\btTrenLop_SinhVien.pdb
+D:\Code\c#\bttrenlop_sinhvien\obj\Debug\net5.0\btTrenLop_SinhVien.genruntimeconfig.cache

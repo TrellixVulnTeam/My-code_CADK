@@ -1,0 +1,16 @@
+D:\Code\c#\sophuc\bin\Debug\net5.0\soPhuc.exe
+D:\Code\c#\sophuc\bin\Debug\net5.0\soPhuc.deps.json
+D:\Code\c#\sophuc\bin\Debug\net5.0\soPhuc.runtimeconfig.json
+D:\Code\c#\sophuc\bin\Debug\net5.0\soPhuc.runtimeconfig.dev.json
+D:\Code\c#\sophuc\bin\Debug\net5.0\soPhuc.dll
+D:\Code\c#\sophuc\bin\Debug\net5.0\ref\soPhuc.dll
+D:\Code\c#\sophuc\bin\Debug\net5.0\soPhuc.pdb
+D:\Code\c#\sophuc\obj\Debug\net5.0\soPhuc.csproj.AssemblyReference.cache
+D:\Code\c#\sophuc\obj\Debug\net5.0\soPhuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\sophuc\obj\Debug\net5.0\soPhuc.AssemblyInfoInputs.cache
+D:\Code\c#\sophuc\obj\Debug\net5.0\soPhuc.AssemblyInfo.cs
+D:\Code\c#\sophuc\obj\Debug\net5.0\soPhuc.csproj.CoreCompileInputs.cache
+D:\Code\c#\sophuc\obj\Debug\net5.0\soPhuc.dll
+D:\Code\c#\sophuc\obj\Debug\net5.0\ref\soPhuc.dll
+D:\Code\c#\sophuc\obj\Debug\net5.0\soPhuc.pdb
+D:\Code\c#\sophuc\obj\Debug\net5.0\soPhuc.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Code\c#\student\bin\Debug\net5.0\Student.exe
+D:\Code\c#\student\bin\Debug\net5.0\Student.deps.json
+D:\Code\c#\student\bin\Debug\net5.0\Student.runtimeconfig.json
+D:\Code\c#\student\bin\Debug\net5.0\Student.runtimeconfig.dev.json
+D:\Code\c#\student\bin\Debug\net5.0\Student.dll
+D:\Code\c#\student\bin\Debug\net5.0\ref\Student.dll
+D:\Code\c#\student\bin\Debug\net5.0\Student.pdb
+D:\Code\c#\student\obj\Debug\net5.0\Student.csproj.AssemblyReference.cache
+D:\Code\c#\student\obj\Debug\net5.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\student\obj\Debug\net5.0\Student.AssemblyInfoInputs.cache
+D:\Code\c#\student\obj\Debug\net5.0\Student.AssemblyInfo.cs
+D:\Code\c#\student\obj\Debug\net5.0\Student.csproj.CoreCompileInputs.cache
+D:\Code\c#\student\obj\Debug\net5.0\Student.dll
+D:\Code\c#\student\obj\Debug\net5.0\ref\Student.dll
+D:\Code\c#\student\obj\Debug\net5.0\Student.pdb
+D:\Code\c#\student\obj\Debug\net5.0\Student.genruntimeconfig.cache

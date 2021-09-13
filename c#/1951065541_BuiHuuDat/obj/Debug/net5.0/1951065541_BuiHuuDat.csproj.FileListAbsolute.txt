@@ -1,0 +1,16 @@
+D:\Code\c#\1951065541_buihuudat\bin\Debug\net5.0\1951065541_BuiHuuDat.exe
+D:\Code\c#\1951065541_buihuudat\bin\Debug\net5.0\1951065541_BuiHuuDat.deps.json
+D:\Code\c#\1951065541_buihuudat\bin\Debug\net5.0\1951065541_BuiHuuDat.runtimeconfig.json
+D:\Code\c#\1951065541_buihuudat\bin\Debug\net5.0\1951065541_BuiHuuDat.runtimeconfig.dev.json
+D:\Code\c#\1951065541_buihuudat\bin\Debug\net5.0\1951065541_BuiHuuDat.dll
+D:\Code\c#\1951065541_buihuudat\bin\Debug\net5.0\ref\1951065541_BuiHuuDat.dll
+D:\Code\c#\1951065541_buihuudat\bin\Debug\net5.0\1951065541_BuiHuuDat.pdb
+D:\Code\c#\1951065541_buihuudat\obj\Debug\net5.0\1951065541_BuiHuuDat.csproj.AssemblyReference.cache
+D:\Code\c#\1951065541_buihuudat\obj\Debug\net5.0\1951065541_BuiHuuDat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\1951065541_buihuudat\obj\Debug\net5.0\1951065541_BuiHuuDat.AssemblyInfoInputs.cache
+D:\Code\c#\1951065541_buihuudat\obj\Debug\net5.0\1951065541_BuiHuuDat.AssemblyInfo.cs
+D:\Code\c#\1951065541_buihuudat\obj\Debug\net5.0\1951065541_BuiHuuDat.csproj.CoreCompileInputs.cache
+D:\Code\c#\1951065541_buihuudat\obj\Debug\net5.0\1951065541_BuiHuuDat.dll
+D:\Code\c#\1951065541_buihuudat\obj\Debug\net5.0\ref\1951065541_BuiHuuDat.dll
+D:\Code\c#\1951065541_buihuudat\obj\Debug\net5.0\1951065541_BuiHuuDat.pdb
+D:\Code\c#\1951065541_buihuudat\obj\Debug\net5.0\1951065541_BuiHuuDat.genruntimeconfig.cache

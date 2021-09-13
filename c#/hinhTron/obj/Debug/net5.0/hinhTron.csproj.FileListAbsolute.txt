@@ -1,0 +1,16 @@
+D:\Code\c#\hinhtron\bin\Debug\net5.0\hinhTron.exe
+D:\Code\c#\hinhtron\bin\Debug\net5.0\hinhTron.deps.json
+D:\Code\c#\hinhtron\bin\Debug\net5.0\hinhTron.runtimeconfig.json
+D:\Code\c#\hinhtron\bin\Debug\net5.0\hinhTron.runtimeconfig.dev.json
+D:\Code\c#\hinhtron\bin\Debug\net5.0\hinhTron.dll
+D:\Code\c#\hinhtron\bin\Debug\net5.0\ref\hinhTron.dll
+D:\Code\c#\hinhtron\bin\Debug\net5.0\hinhTron.pdb
+D:\Code\c#\hinhtron\obj\Debug\net5.0\hinhTron.csproj.AssemblyReference.cache
+D:\Code\c#\hinhtron\obj\Debug\net5.0\hinhTron.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\hinhtron\obj\Debug\net5.0\hinhTron.AssemblyInfoInputs.cache
+D:\Code\c#\hinhtron\obj\Debug\net5.0\hinhTron.AssemblyInfo.cs
+D:\Code\c#\hinhtron\obj\Debug\net5.0\hinhTron.csproj.CoreCompileInputs.cache
+D:\Code\c#\hinhtron\obj\Debug\net5.0\hinhTron.dll
+D:\Code\c#\hinhtron\obj\Debug\net5.0\ref\hinhTron.dll
+D:\Code\c#\hinhtron\obj\Debug\net5.0\hinhTron.pdb
+D:\Code\c#\hinhtron\obj\Debug\net5.0\hinhTron.genruntimeconfig.cache

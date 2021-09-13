@@ -1,0 +1,16 @@
+D:\Code\c#\tinhdientich_decuong\bin\Debug\net5.0\tinhDienTich_DeCuong.exe
+D:\Code\c#\tinhdientich_decuong\bin\Debug\net5.0\tinhDienTich_DeCuong.deps.json
+D:\Code\c#\tinhdientich_decuong\bin\Debug\net5.0\tinhDienTich_DeCuong.runtimeconfig.json
+D:\Code\c#\tinhdientich_decuong\bin\Debug\net5.0\tinhDienTich_DeCuong.runtimeconfig.dev.json
+D:\Code\c#\tinhdientich_decuong\bin\Debug\net5.0\tinhDienTich_DeCuong.dll
+D:\Code\c#\tinhdientich_decuong\bin\Debug\net5.0\ref\tinhDienTich_DeCuong.dll
+D:\Code\c#\tinhdientich_decuong\bin\Debug\net5.0\tinhDienTich_DeCuong.pdb
+D:\Code\c#\tinhdientich_decuong\obj\Debug\net5.0\tinhDienTich_DeCuong.csproj.AssemblyReference.cache
+D:\Code\c#\tinhdientich_decuong\obj\Debug\net5.0\tinhDienTich_DeCuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\tinhdientich_decuong\obj\Debug\net5.0\tinhDienTich_DeCuong.AssemblyInfoInputs.cache
+D:\Code\c#\tinhdientich_decuong\obj\Debug\net5.0\tinhDienTich_DeCuong.AssemblyInfo.cs
+D:\Code\c#\tinhdientich_decuong\obj\Debug\net5.0\tinhDienTich_DeCuong.csproj.CoreCompileInputs.cache
+D:\Code\c#\tinhdientich_decuong\obj\Debug\net5.0\tinhDienTich_DeCuong.dll
+D:\Code\c#\tinhdientich_decuong\obj\Debug\net5.0\ref\tinhDienTich_DeCuong.dll
+D:\Code\c#\tinhdientich_decuong\obj\Debug\net5.0\tinhDienTich_DeCuong.pdb
+D:\Code\c#\tinhdientich_decuong\obj\Debug\net5.0\tinhDienTich_DeCuong.genruntimeconfig.cache

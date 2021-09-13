@@ -1,0 +1,16 @@
+D:\Code\c#\taosonguyen\bin\Debug\net5.0\taoSoNguyen.exe
+D:\Code\c#\taosonguyen\bin\Debug\net5.0\taoSoNguyen.deps.json
+D:\Code\c#\taosonguyen\bin\Debug\net5.0\taoSoNguyen.runtimeconfig.json
+D:\Code\c#\taosonguyen\bin\Debug\net5.0\taoSoNguyen.runtimeconfig.dev.json
+D:\Code\c#\taosonguyen\bin\Debug\net5.0\taoSoNguyen.dll
+D:\Code\c#\taosonguyen\bin\Debug\net5.0\ref\taoSoNguyen.dll
+D:\Code\c#\taosonguyen\bin\Debug\net5.0\taoSoNguyen.pdb
+D:\Code\c#\taosonguyen\obj\Debug\net5.0\taoSoNguyen.csproj.AssemblyReference.cache
+D:\Code\c#\taosonguyen\obj\Debug\net5.0\taoSoNguyen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\taosonguyen\obj\Debug\net5.0\taoSoNguyen.AssemblyInfoInputs.cache
+D:\Code\c#\taosonguyen\obj\Debug\net5.0\taoSoNguyen.AssemblyInfo.cs
+D:\Code\c#\taosonguyen\obj\Debug\net5.0\taoSoNguyen.csproj.CoreCompileInputs.cache
+D:\Code\c#\taosonguyen\obj\Debug\net5.0\taoSoNguyen.dll
+D:\Code\c#\taosonguyen\obj\Debug\net5.0\ref\taoSoNguyen.dll
+D:\Code\c#\taosonguyen\obj\Debug\net5.0\taoSoNguyen.pdb
+D:\Code\c#\taosonguyen\obj\Debug\net5.0\taoSoNguyen.genruntimeconfig.cache

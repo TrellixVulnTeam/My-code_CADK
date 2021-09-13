@@ -1,0 +1,16 @@
+D:\Code\c#\dinhthuccap2\bin\Debug\net5.0\dinhThucCap2.exe
+D:\Code\c#\dinhthuccap2\bin\Debug\net5.0\dinhThucCap2.deps.json
+D:\Code\c#\dinhthuccap2\bin\Debug\net5.0\dinhThucCap2.runtimeconfig.json
+D:\Code\c#\dinhthuccap2\bin\Debug\net5.0\dinhThucCap2.runtimeconfig.dev.json
+D:\Code\c#\dinhthuccap2\bin\Debug\net5.0\dinhThucCap2.dll
+D:\Code\c#\dinhthuccap2\bin\Debug\net5.0\ref\dinhThucCap2.dll
+D:\Code\c#\dinhthuccap2\bin\Debug\net5.0\dinhThucCap2.pdb
+D:\Code\c#\dinhthuccap2\obj\Debug\net5.0\dinhThucCap2.csproj.AssemblyReference.cache
+D:\Code\c#\dinhthuccap2\obj\Debug\net5.0\dinhThucCap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\dinhthuccap2\obj\Debug\net5.0\dinhThucCap2.AssemblyInfoInputs.cache
+D:\Code\c#\dinhthuccap2\obj\Debug\net5.0\dinhThucCap2.AssemblyInfo.cs
+D:\Code\c#\dinhthuccap2\obj\Debug\net5.0\dinhThucCap2.csproj.CoreCompileInputs.cache
+D:\Code\c#\dinhthuccap2\obj\Debug\net5.0\dinhThucCap2.dll
+D:\Code\c#\dinhthuccap2\obj\Debug\net5.0\ref\dinhThucCap2.dll
+D:\Code\c#\dinhthuccap2\obj\Debug\net5.0\dinhThucCap2.pdb
+D:\Code\c#\dinhthuccap2\obj\Debug\net5.0\dinhThucCap2.genruntimeconfig.cache

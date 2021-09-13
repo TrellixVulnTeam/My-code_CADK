@@ -1,0 +1,5 @@
+D:\Code\c#\diem2d_decuong\obj\Debug\net5.0\Diem2D_DeCuong.csproj.AssemblyReference.cache
+D:\Code\c#\diem2d_decuong\obj\Debug\net5.0\Diem2D_DeCuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\diem2d_decuong\obj\Debug\net5.0\Diem2D_DeCuong.AssemblyInfoInputs.cache
+D:\Code\c#\diem2d_decuong\obj\Debug\net5.0\Diem2D_DeCuong.AssemblyInfo.cs
+D:\Code\c#\diem2d_decuong\obj\Debug\net5.0\Diem2D_DeCuong.csproj.CoreCompileInputs.cache

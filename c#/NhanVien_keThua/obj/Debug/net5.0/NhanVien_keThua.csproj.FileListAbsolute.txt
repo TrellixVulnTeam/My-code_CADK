@@ -1,0 +1,16 @@
+D:\Code\c#\nhanvien_kethua\bin\Debug\net5.0\NhanVien_keThua.exe
+D:\Code\c#\nhanvien_kethua\bin\Debug\net5.0\NhanVien_keThua.deps.json
+D:\Code\c#\nhanvien_kethua\bin\Debug\net5.0\NhanVien_keThua.runtimeconfig.json
+D:\Code\c#\nhanvien_kethua\bin\Debug\net5.0\NhanVien_keThua.runtimeconfig.dev.json
+D:\Code\c#\nhanvien_kethua\bin\Debug\net5.0\NhanVien_keThua.dll
+D:\Code\c#\nhanvien_kethua\bin\Debug\net5.0\ref\NhanVien_keThua.dll
+D:\Code\c#\nhanvien_kethua\bin\Debug\net5.0\NhanVien_keThua.pdb
+D:\Code\c#\nhanvien_kethua\obj\Debug\net5.0\NhanVien_keThua.csproj.AssemblyReference.cache
+D:\Code\c#\nhanvien_kethua\obj\Debug\net5.0\NhanVien_keThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\nhanvien_kethua\obj\Debug\net5.0\NhanVien_keThua.AssemblyInfoInputs.cache
+D:\Code\c#\nhanvien_kethua\obj\Debug\net5.0\NhanVien_keThua.AssemblyInfo.cs
+D:\Code\c#\nhanvien_kethua\obj\Debug\net5.0\NhanVien_keThua.csproj.CoreCompileInputs.cache
+D:\Code\c#\nhanvien_kethua\obj\Debug\net5.0\NhanVien_keThua.dll
+D:\Code\c#\nhanvien_kethua\obj\Debug\net5.0\ref\NhanVien_keThua.dll
+D:\Code\c#\nhanvien_kethua\obj\Debug\net5.0\NhanVien_keThua.pdb
+D:\Code\c#\nhanvien_kethua\obj\Debug\net5.0\NhanVien_keThua.genruntimeconfig.cache

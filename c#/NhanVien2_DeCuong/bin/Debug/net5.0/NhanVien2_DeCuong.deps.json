@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NhanVien2_DeCuong/1.0.0": {
+        "runtime": {
+          "NhanVien2_DeCuong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NhanVien2_DeCuong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

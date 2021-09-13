@@ -1,0 +1,16 @@
+D:\Code\c#\nuocgiaikhat\bin\Debug\net5.0\nuocGiaiKhat.exe
+D:\Code\c#\nuocgiaikhat\bin\Debug\net5.0\nuocGiaiKhat.deps.json
+D:\Code\c#\nuocgiaikhat\bin\Debug\net5.0\nuocGiaiKhat.runtimeconfig.json
+D:\Code\c#\nuocgiaikhat\bin\Debug\net5.0\nuocGiaiKhat.runtimeconfig.dev.json
+D:\Code\c#\nuocgiaikhat\bin\Debug\net5.0\nuocGiaiKhat.dll
+D:\Code\c#\nuocgiaikhat\bin\Debug\net5.0\ref\nuocGiaiKhat.dll
+D:\Code\c#\nuocgiaikhat\bin\Debug\net5.0\nuocGiaiKhat.pdb
+D:\Code\c#\nuocgiaikhat\obj\Debug\net5.0\nuocGiaiKhat.csproj.AssemblyReference.cache
+D:\Code\c#\nuocgiaikhat\obj\Debug\net5.0\nuocGiaiKhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\nuocgiaikhat\obj\Debug\net5.0\nuocGiaiKhat.AssemblyInfoInputs.cache
+D:\Code\c#\nuocgiaikhat\obj\Debug\net5.0\nuocGiaiKhat.AssemblyInfo.cs
+D:\Code\c#\nuocgiaikhat\obj\Debug\net5.0\nuocGiaiKhat.csproj.CoreCompileInputs.cache
+D:\Code\c#\nuocgiaikhat\obj\Debug\net5.0\nuocGiaiKhat.dll
+D:\Code\c#\nuocgiaikhat\obj\Debug\net5.0\ref\nuocGiaiKhat.dll
+D:\Code\c#\nuocgiaikhat\obj\Debug\net5.0\nuocGiaiKhat.pdb
+D:\Code\c#\nuocgiaikhat\obj\Debug\net5.0\nuocGiaiKhat.genruntimeconfig.cache

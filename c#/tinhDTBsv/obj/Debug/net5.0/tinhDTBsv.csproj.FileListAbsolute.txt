@@ -1,0 +1,16 @@
+D:\Code\c#\tinhdtbsv\bin\Debug\net5.0\tinhDTBsv.exe
+D:\Code\c#\tinhdtbsv\bin\Debug\net5.0\tinhDTBsv.deps.json
+D:\Code\c#\tinhdtbsv\bin\Debug\net5.0\tinhDTBsv.runtimeconfig.json
+D:\Code\c#\tinhdtbsv\bin\Debug\net5.0\tinhDTBsv.runtimeconfig.dev.json
+D:\Code\c#\tinhdtbsv\bin\Debug\net5.0\tinhDTBsv.dll
+D:\Code\c#\tinhdtbsv\bin\Debug\net5.0\ref\tinhDTBsv.dll
+D:\Code\c#\tinhdtbsv\bin\Debug\net5.0\tinhDTBsv.pdb
+D:\Code\c#\tinhdtbsv\obj\Debug\net5.0\tinhDTBsv.csproj.AssemblyReference.cache
+D:\Code\c#\tinhdtbsv\obj\Debug\net5.0\tinhDTBsv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\tinhdtbsv\obj\Debug\net5.0\tinhDTBsv.AssemblyInfoInputs.cache
+D:\Code\c#\tinhdtbsv\obj\Debug\net5.0\tinhDTBsv.AssemblyInfo.cs
+D:\Code\c#\tinhdtbsv\obj\Debug\net5.0\tinhDTBsv.csproj.CoreCompileInputs.cache
+D:\Code\c#\tinhdtbsv\obj\Debug\net5.0\tinhDTBsv.dll
+D:\Code\c#\tinhdtbsv\obj\Debug\net5.0\ref\tinhDTBsv.dll
+D:\Code\c#\tinhdtbsv\obj\Debug\net5.0\tinhDTBsv.pdb
+D:\Code\c#\tinhdtbsv\obj\Debug\net5.0\tinhDTBsv.genruntimeconfig.cache

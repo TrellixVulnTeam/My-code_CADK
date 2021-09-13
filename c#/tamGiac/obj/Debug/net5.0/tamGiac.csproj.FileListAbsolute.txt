@@ -1,0 +1,16 @@
+D:\Code\c#\tamgiac\bin\Debug\net5.0\tamGiac.exe
+D:\Code\c#\tamgiac\bin\Debug\net5.0\tamGiac.deps.json
+D:\Code\c#\tamgiac\bin\Debug\net5.0\tamGiac.runtimeconfig.json
+D:\Code\c#\tamgiac\bin\Debug\net5.0\tamGiac.runtimeconfig.dev.json
+D:\Code\c#\tamgiac\bin\Debug\net5.0\tamGiac.dll
+D:\Code\c#\tamgiac\bin\Debug\net5.0\ref\tamGiac.dll
+D:\Code\c#\tamgiac\bin\Debug\net5.0\tamGiac.pdb
+D:\Code\c#\tamgiac\obj\Debug\net5.0\tamGiac.csproj.AssemblyReference.cache
+D:\Code\c#\tamgiac\obj\Debug\net5.0\tamGiac.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\tamgiac\obj\Debug\net5.0\tamGiac.AssemblyInfoInputs.cache
+D:\Code\c#\tamgiac\obj\Debug\net5.0\tamGiac.AssemblyInfo.cs
+D:\Code\c#\tamgiac\obj\Debug\net5.0\tamGiac.csproj.CoreCompileInputs.cache
+D:\Code\c#\tamgiac\obj\Debug\net5.0\tamGiac.dll
+D:\Code\c#\tamgiac\obj\Debug\net5.0\ref\tamGiac.dll
+D:\Code\c#\tamgiac\obj\Debug\net5.0\tamGiac.pdb
+D:\Code\c#\tamgiac\obj\Debug\net5.0\tamGiac.genruntimeconfig.cache

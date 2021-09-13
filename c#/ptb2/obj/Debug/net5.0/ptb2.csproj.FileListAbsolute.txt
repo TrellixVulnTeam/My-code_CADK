@@ -1,0 +1,16 @@
+D:\Code\c#\ptb2\bin\Debug\net5.0\ptb2.exe
+D:\Code\c#\ptb2\bin\Debug\net5.0\ptb2.deps.json
+D:\Code\c#\ptb2\bin\Debug\net5.0\ptb2.runtimeconfig.json
+D:\Code\c#\ptb2\bin\Debug\net5.0\ptb2.runtimeconfig.dev.json
+D:\Code\c#\ptb2\bin\Debug\net5.0\ptb2.dll
+D:\Code\c#\ptb2\bin\Debug\net5.0\ref\ptb2.dll
+D:\Code\c#\ptb2\bin\Debug\net5.0\ptb2.pdb
+D:\Code\c#\ptb2\obj\Debug\net5.0\ptb2.csproj.AssemblyReference.cache
+D:\Code\c#\ptb2\obj\Debug\net5.0\ptb2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\ptb2\obj\Debug\net5.0\ptb2.AssemblyInfoInputs.cache
+D:\Code\c#\ptb2\obj\Debug\net5.0\ptb2.AssemblyInfo.cs
+D:\Code\c#\ptb2\obj\Debug\net5.0\ptb2.csproj.CoreCompileInputs.cache
+D:\Code\c#\ptb2\obj\Debug\net5.0\ptb2.dll
+D:\Code\c#\ptb2\obj\Debug\net5.0\ref\ptb2.dll
+D:\Code\c#\ptb2\obj\Debug\net5.0\ptb2.pdb
+D:\Code\c#\ptb2\obj\Debug\net5.0\ptb2.genruntimeconfig.cache

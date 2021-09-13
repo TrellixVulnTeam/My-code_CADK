@@ -1,0 +1,5 @@
+fullName: Bui Huu Dat
+studentCode: 1951065541
+birthDat: 26/10/2001
+born: Nam Dinh
+phoneNumber: 0987651053

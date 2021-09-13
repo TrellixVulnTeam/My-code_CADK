@@ -1,0 +1,5 @@
+D:\Code\c#\buoi_9\obj\Debug\net5.0\buoi_9.csproj.AssemblyReference.cache
+D:\Code\c#\buoi_9\obj\Debug\net5.0\buoi_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\buoi_9\obj\Debug\net5.0\buoi_9.AssemblyInfoInputs.cache
+D:\Code\c#\buoi_9\obj\Debug\net5.0\buoi_9.AssemblyInfo.cs
+D:\Code\c#\buoi_9\obj\Debug\net5.0\buoi_9.csproj.CoreCompileInputs.cache

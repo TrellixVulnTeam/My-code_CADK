@@ -1,0 +1,16 @@
+D:\Code\c#\DinhThuc_1\bin\Debug\net5.0\DinhThuc_1.exe
+D:\Code\c#\DinhThuc_1\bin\Debug\net5.0\DinhThuc_1.deps.json
+D:\Code\c#\DinhThuc_1\bin\Debug\net5.0\DinhThuc_1.runtimeconfig.json
+D:\Code\c#\DinhThuc_1\bin\Debug\net5.0\DinhThuc_1.runtimeconfig.dev.json
+D:\Code\c#\DinhThuc_1\bin\Debug\net5.0\DinhThuc_1.dll
+D:\Code\c#\DinhThuc_1\bin\Debug\net5.0\ref\DinhThuc_1.dll
+D:\Code\c#\DinhThuc_1\bin\Debug\net5.0\DinhThuc_1.pdb
+D:\Code\c#\DinhThuc_1\obj\Debug\net5.0\DinhThuc_1.csproj.AssemblyReference.cache
+D:\Code\c#\DinhThuc_1\obj\Debug\net5.0\DinhThuc_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\DinhThuc_1\obj\Debug\net5.0\DinhThuc_1.AssemblyInfoInputs.cache
+D:\Code\c#\DinhThuc_1\obj\Debug\net5.0\DinhThuc_1.AssemblyInfo.cs
+D:\Code\c#\DinhThuc_1\obj\Debug\net5.0\DinhThuc_1.csproj.CoreCompileInputs.cache
+D:\Code\c#\DinhThuc_1\obj\Debug\net5.0\DinhThuc_1.dll
+D:\Code\c#\DinhThuc_1\obj\Debug\net5.0\ref\DinhThuc_1.dll
+D:\Code\c#\DinhThuc_1\obj\Debug\net5.0\DinhThuc_1.pdb
+D:\Code\c#\DinhThuc_1\obj\Debug\net5.0\DinhThuc_1.genruntimeconfig.cache

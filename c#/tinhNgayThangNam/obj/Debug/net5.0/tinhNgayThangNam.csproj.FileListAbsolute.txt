@@ -1,0 +1,16 @@
+D:\Code\c#\tinhngaythangnam\bin\Debug\net5.0\tinhNgayThangNam.exe
+D:\Code\c#\tinhngaythangnam\bin\Debug\net5.0\tinhNgayThangNam.deps.json
+D:\Code\c#\tinhngaythangnam\bin\Debug\net5.0\tinhNgayThangNam.runtimeconfig.json
+D:\Code\c#\tinhngaythangnam\bin\Debug\net5.0\tinhNgayThangNam.runtimeconfig.dev.json
+D:\Code\c#\tinhngaythangnam\bin\Debug\net5.0\tinhNgayThangNam.dll
+D:\Code\c#\tinhngaythangnam\bin\Debug\net5.0\ref\tinhNgayThangNam.dll
+D:\Code\c#\tinhngaythangnam\bin\Debug\net5.0\tinhNgayThangNam.pdb
+D:\Code\c#\tinhngaythangnam\obj\Debug\net5.0\tinhNgayThangNam.csproj.AssemblyReference.cache
+D:\Code\c#\tinhngaythangnam\obj\Debug\net5.0\tinhNgayThangNam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\tinhngaythangnam\obj\Debug\net5.0\tinhNgayThangNam.AssemblyInfoInputs.cache
+D:\Code\c#\tinhngaythangnam\obj\Debug\net5.0\tinhNgayThangNam.AssemblyInfo.cs
+D:\Code\c#\tinhngaythangnam\obj\Debug\net5.0\tinhNgayThangNam.csproj.CoreCompileInputs.cache
+D:\Code\c#\tinhngaythangnam\obj\Debug\net5.0\tinhNgayThangNam.dll
+D:\Code\c#\tinhngaythangnam\obj\Debug\net5.0\ref\tinhNgayThangNam.dll
+D:\Code\c#\tinhngaythangnam\obj\Debug\net5.0\tinhNgayThangNam.pdb
+D:\Code\c#\tinhngaythangnam\obj\Debug\net5.0\tinhNgayThangNam.genruntimeconfig.cache

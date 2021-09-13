@@ -1,0 +1,16 @@
+D:\Code\c#\nhanvien_khachhang\bin\Debug\net5.0\NV_HK.exe
+D:\Code\c#\nhanvien_khachhang\bin\Debug\net5.0\NV_HK.deps.json
+D:\Code\c#\nhanvien_khachhang\bin\Debug\net5.0\NV_HK.runtimeconfig.json
+D:\Code\c#\nhanvien_khachhang\bin\Debug\net5.0\NV_HK.runtimeconfig.dev.json
+D:\Code\c#\nhanvien_khachhang\bin\Debug\net5.0\NV_HK.dll
+D:\Code\c#\nhanvien_khachhang\bin\Debug\net5.0\ref\NV_HK.dll
+D:\Code\c#\nhanvien_khachhang\bin\Debug\net5.0\NV_HK.pdb
+D:\Code\c#\nhanvien_khachhang\obj\Debug\net5.0\NV_HK.csproj.AssemblyReference.cache
+D:\Code\c#\nhanvien_khachhang\obj\Debug\net5.0\NV_HK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\nhanvien_khachhang\obj\Debug\net5.0\NV_HK.AssemblyInfoInputs.cache
+D:\Code\c#\nhanvien_khachhang\obj\Debug\net5.0\NV_HK.AssemblyInfo.cs
+D:\Code\c#\nhanvien_khachhang\obj\Debug\net5.0\NV_HK.csproj.CoreCompileInputs.cache
+D:\Code\c#\nhanvien_khachhang\obj\Debug\net5.0\NV_HK.dll
+D:\Code\c#\nhanvien_khachhang\obj\Debug\net5.0\ref\NV_HK.dll
+D:\Code\c#\nhanvien_khachhang\obj\Debug\net5.0\NV_HK.pdb
+D:\Code\c#\nhanvien_khachhang\obj\Debug\net5.0\NV_HK.genruntimeconfig.cache

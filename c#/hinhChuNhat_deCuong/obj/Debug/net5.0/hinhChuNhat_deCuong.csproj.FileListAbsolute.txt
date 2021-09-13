@@ -1,0 +1,16 @@
+D:\Code\c#\hinhchunhat_decuong\bin\Debug\net5.0\hinhChuNhat_deCuong.exe
+D:\Code\c#\hinhchunhat_decuong\bin\Debug\net5.0\hinhChuNhat_deCuong.deps.json
+D:\Code\c#\hinhchunhat_decuong\bin\Debug\net5.0\hinhChuNhat_deCuong.runtimeconfig.json
+D:\Code\c#\hinhchunhat_decuong\bin\Debug\net5.0\hinhChuNhat_deCuong.runtimeconfig.dev.json
+D:\Code\c#\hinhchunhat_decuong\bin\Debug\net5.0\hinhChuNhat_deCuong.dll
+D:\Code\c#\hinhchunhat_decuong\bin\Debug\net5.0\ref\hinhChuNhat_deCuong.dll
+D:\Code\c#\hinhchunhat_decuong\bin\Debug\net5.0\hinhChuNhat_deCuong.pdb
+D:\Code\c#\hinhchunhat_decuong\obj\Debug\net5.0\hinhChuNhat_deCuong.csproj.AssemblyReference.cache
+D:\Code\c#\hinhchunhat_decuong\obj\Debug\net5.0\hinhChuNhat_deCuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\hinhchunhat_decuong\obj\Debug\net5.0\hinhChuNhat_deCuong.AssemblyInfoInputs.cache
+D:\Code\c#\hinhchunhat_decuong\obj\Debug\net5.0\hinhChuNhat_deCuong.AssemblyInfo.cs
+D:\Code\c#\hinhchunhat_decuong\obj\Debug\net5.0\hinhChuNhat_deCuong.csproj.CoreCompileInputs.cache
+D:\Code\c#\hinhchunhat_decuong\obj\Debug\net5.0\hinhChuNhat_deCuong.dll
+D:\Code\c#\hinhchunhat_decuong\obj\Debug\net5.0\ref\hinhChuNhat_deCuong.dll
+D:\Code\c#\hinhchunhat_decuong\obj\Debug\net5.0\hinhChuNhat_deCuong.pdb
+D:\Code\c#\hinhchunhat_decuong\obj\Debug\net5.0\hinhChuNhat_deCuong.genruntimeconfig.cache

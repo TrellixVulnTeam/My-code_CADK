@@ -1,0 +1,16 @@
+D:\Code\c#\nhanvien_decuong\bin\Debug\net5.0\NhanVien_DeCuong.exe
+D:\Code\c#\nhanvien_decuong\bin\Debug\net5.0\NhanVien_DeCuong.deps.json
+D:\Code\c#\nhanvien_decuong\bin\Debug\net5.0\NhanVien_DeCuong.runtimeconfig.json
+D:\Code\c#\nhanvien_decuong\bin\Debug\net5.0\NhanVien_DeCuong.runtimeconfig.dev.json
+D:\Code\c#\nhanvien_decuong\bin\Debug\net5.0\NhanVien_DeCuong.dll
+D:\Code\c#\nhanvien_decuong\bin\Debug\net5.0\ref\NhanVien_DeCuong.dll
+D:\Code\c#\nhanvien_decuong\bin\Debug\net5.0\NhanVien_DeCuong.pdb
+D:\Code\c#\nhanvien_decuong\obj\Debug\net5.0\NhanVien_DeCuong.csproj.AssemblyReference.cache
+D:\Code\c#\nhanvien_decuong\obj\Debug\net5.0\NhanVien_DeCuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\nhanvien_decuong\obj\Debug\net5.0\NhanVien_DeCuong.AssemblyInfoInputs.cache
+D:\Code\c#\nhanvien_decuong\obj\Debug\net5.0\NhanVien_DeCuong.AssemblyInfo.cs
+D:\Code\c#\nhanvien_decuong\obj\Debug\net5.0\NhanVien_DeCuong.csproj.CoreCompileInputs.cache
+D:\Code\c#\nhanvien_decuong\obj\Debug\net5.0\NhanVien_DeCuong.dll
+D:\Code\c#\nhanvien_decuong\obj\Debug\net5.0\ref\NhanVien_DeCuong.dll
+D:\Code\c#\nhanvien_decuong\obj\Debug\net5.0\NhanVien_DeCuong.pdb
+D:\Code\c#\nhanvien_decuong\obj\Debug\net5.0\NhanVien_DeCuong.genruntimeconfig.cache

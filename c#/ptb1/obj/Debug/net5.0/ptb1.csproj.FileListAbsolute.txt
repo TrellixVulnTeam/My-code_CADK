@@ -1,0 +1,16 @@
+D:\Code\c#\ptb1\bin\Debug\net5.0\ptb1.exe
+D:\Code\c#\ptb1\bin\Debug\net5.0\ptb1.deps.json
+D:\Code\c#\ptb1\bin\Debug\net5.0\ptb1.runtimeconfig.json
+D:\Code\c#\ptb1\bin\Debug\net5.0\ptb1.runtimeconfig.dev.json
+D:\Code\c#\ptb1\bin\Debug\net5.0\ptb1.dll
+D:\Code\c#\ptb1\bin\Debug\net5.0\ref\ptb1.dll
+D:\Code\c#\ptb1\bin\Debug\net5.0\ptb1.pdb
+D:\Code\c#\ptb1\obj\Debug\net5.0\ptb1.csproj.AssemblyReference.cache
+D:\Code\c#\ptb1\obj\Debug\net5.0\ptb1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\ptb1\obj\Debug\net5.0\ptb1.AssemblyInfoInputs.cache
+D:\Code\c#\ptb1\obj\Debug\net5.0\ptb1.AssemblyInfo.cs
+D:\Code\c#\ptb1\obj\Debug\net5.0\ptb1.csproj.CoreCompileInputs.cache
+D:\Code\c#\ptb1\obj\Debug\net5.0\ptb1.dll
+D:\Code\c#\ptb1\obj\Debug\net5.0\ref\ptb1.dll
+D:\Code\c#\ptb1\obj\Debug\net5.0\ptb1.pdb
+D:\Code\c#\ptb1\obj\Debug\net5.0\ptb1.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+D:\Code\c#\tinhdiem\obj\Debug\net5.0\TinhDiem.csproj.AssemblyReference.cache
+D:\Code\c#\tinhdiem\obj\Debug\net5.0\TinhDiem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\tinhdiem\obj\Debug\net5.0\TinhDiem.AssemblyInfoInputs.cache
+D:\Code\c#\tinhdiem\obj\Debug\net5.0\TinhDiem.AssemblyInfo.cs
+D:\Code\c#\tinhdiem\obj\Debug\net5.0\TinhDiem.csproj.CoreCompileInputs.cache

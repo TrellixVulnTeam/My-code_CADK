@@ -1,0 +1,16 @@
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\bin\Debug\net5.0\NhanVien2_DeCuong.exe
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\bin\Debug\net5.0\NhanVien2_DeCuong.deps.json
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\bin\Debug\net5.0\NhanVien2_DeCuong.runtimeconfig.json
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\bin\Debug\net5.0\NhanVien2_DeCuong.runtimeconfig.dev.json
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\bin\Debug\net5.0\NhanVien2_DeCuong.dll
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\bin\Debug\net5.0\ref\NhanVien2_DeCuong.dll
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\bin\Debug\net5.0\NhanVien2_DeCuong.pdb
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\obj\Debug\net5.0\NhanVien2_DeCuong.csproj.AssemblyReference.cache
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\obj\Debug\net5.0\NhanVien2_DeCuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\obj\Debug\net5.0\NhanVien2_DeCuong.AssemblyInfoInputs.cache
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\obj\Debug\net5.0\NhanVien2_DeCuong.AssemblyInfo.cs
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\obj\Debug\net5.0\NhanVien2_DeCuong.csproj.CoreCompileInputs.cache
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\obj\Debug\net5.0\NhanVien2_DeCuong.dll
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\obj\Debug\net5.0\ref\NhanVien2_DeCuong.dll
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\obj\Debug\net5.0\NhanVien2_DeCuong.pdb
+C:\Users\dat54\OneDrive\Desktop\Learning\c#\NhanVien2_DeCuong\obj\Debug\net5.0\NhanVien2_DeCuong.genruntimeconfig.cache

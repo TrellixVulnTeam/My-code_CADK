@@ -1,0 +1,16 @@
+D:\Code\c#\phongtro\bin\Debug\net5.0\PhongTro.exe
+D:\Code\c#\phongtro\bin\Debug\net5.0\PhongTro.deps.json
+D:\Code\c#\phongtro\bin\Debug\net5.0\PhongTro.runtimeconfig.json
+D:\Code\c#\phongtro\bin\Debug\net5.0\PhongTro.runtimeconfig.dev.json
+D:\Code\c#\phongtro\bin\Debug\net5.0\PhongTro.dll
+D:\Code\c#\phongtro\bin\Debug\net5.0\ref\PhongTro.dll
+D:\Code\c#\phongtro\bin\Debug\net5.0\PhongTro.pdb
+D:\Code\c#\phongtro\obj\Debug\net5.0\PhongTro.csproj.AssemblyReference.cache
+D:\Code\c#\phongtro\obj\Debug\net5.0\PhongTro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\phongtro\obj\Debug\net5.0\PhongTro.AssemblyInfoInputs.cache
+D:\Code\c#\phongtro\obj\Debug\net5.0\PhongTro.AssemblyInfo.cs
+D:\Code\c#\phongtro\obj\Debug\net5.0\PhongTro.csproj.CoreCompileInputs.cache
+D:\Code\c#\phongtro\obj\Debug\net5.0\PhongTro.dll
+D:\Code\c#\phongtro\obj\Debug\net5.0\ref\PhongTro.dll
+D:\Code\c#\phongtro\obj\Debug\net5.0\PhongTro.pdb
+D:\Code\c#\phongtro\obj\Debug\net5.0\PhongTro.genruntimeconfig.cache

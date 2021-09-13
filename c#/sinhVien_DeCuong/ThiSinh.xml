@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DanhSach>
+    <ThiSinh>
+        <sbd>001</sbd>
+        <HT>Pham Minh Nhut</HT>
+        <NamSinh>2001</NamSinh>
+        <Toan>9</Toan>
+        <Van>9</Van>
+        <NN>8</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>002</sbd>
+        <HT>Nguyen Van A</HT>
+        <Namsinh>2002</Namsinh>
+        <Toan>10</Toan>
+        <Van>9</Van>
+        <NN>8</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>003</sbd>
+        <HT>Nguyen Thi B</HT>
+        <NamSinh>2001</NamSinh>
+        <Toan>9</Toan>
+        <Van>7</Van>
+        <NN>9</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>004</sbd>
+        <HT>Tran Thanh Hang</HT>
+        <Namsinh>2001</Namsinh>
+        <Toan>9</Toan>
+        <Van>10</Van>
+        <NN>8</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>005</sbd>
+        <HT>Tran Thi Bong</HT>
+        <Namsinh>1999</Namsinh>
+        <Toan>10</Toan>
+        <Van>8</Van>
+        <NN>9</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>006</sbd>
+        <HT>Nguyen Thanh Tung</HT>
+        <Namsinh>2001</Namsinh>
+        <Toan>9</Toan>
+        <Van>8</Van>
+        <NN>8</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>007</sbd>
+        <HT>Nguyen Hoang Phi Son</HT>
+        <Namsinh>2001</Namsinh>
+        <Toan>9</Toan>
+        <Van>7</Van>
+        <NN>9</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>008</sbd>
+        <HT>Tran Tan Phat</HT>
+        <Namsinh>2001</Namsinh>
+        <Toan>9</Toan>
+        <Van>9</Van>
+        <NN>9</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>009</sbd>
+        <HT>Cao Minh Tan</HT>
+        <Namsinh>2001</Namsinh>
+        <Toan>8</Toan>
+        <Van>9</Van>
+        <NN>9</NN>
+    </ThiSinh>
+    <ThiSinh>
+        <sbd>010</sbd>
+        <HT>Hoang Anh Khoa</HT>
+        <Namsinh>2001</Namsinh>
+        <Toan>9</Toan>
+        <Van>8</Van>
+        <NN>9</NN>
+    </ThiSinh>
+</DanhSach>

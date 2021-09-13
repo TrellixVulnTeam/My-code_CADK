@@ -1,0 +1,16 @@
+D:\Code\c#\giaovien_xml\bin\Debug\net5.0\GiaoVien_xml.exe
+D:\Code\c#\giaovien_xml\bin\Debug\net5.0\GiaoVien_xml.deps.json
+D:\Code\c#\giaovien_xml\bin\Debug\net5.0\GiaoVien_xml.runtimeconfig.json
+D:\Code\c#\giaovien_xml\bin\Debug\net5.0\GiaoVien_xml.runtimeconfig.dev.json
+D:\Code\c#\giaovien_xml\bin\Debug\net5.0\GiaoVien_xml.dll
+D:\Code\c#\giaovien_xml\bin\Debug\net5.0\ref\GiaoVien_xml.dll
+D:\Code\c#\giaovien_xml\bin\Debug\net5.0\GiaoVien_xml.pdb
+D:\Code\c#\giaovien_xml\obj\Debug\net5.0\GiaoVien_xml.csproj.AssemblyReference.cache
+D:\Code\c#\giaovien_xml\obj\Debug\net5.0\GiaoVien_xml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\giaovien_xml\obj\Debug\net5.0\GiaoVien_xml.AssemblyInfoInputs.cache
+D:\Code\c#\giaovien_xml\obj\Debug\net5.0\GiaoVien_xml.AssemblyInfo.cs
+D:\Code\c#\giaovien_xml\obj\Debug\net5.0\GiaoVien_xml.csproj.CoreCompileInputs.cache
+D:\Code\c#\giaovien_xml\obj\Debug\net5.0\GiaoVien_xml.dll
+D:\Code\c#\giaovien_xml\obj\Debug\net5.0\ref\GiaoVien_xml.dll
+D:\Code\c#\giaovien_xml\obj\Debug\net5.0\GiaoVien_xml.pdb
+D:\Code\c#\giaovien_xml\obj\Debug\net5.0\GiaoVien_xml.genruntimeconfig.cache
