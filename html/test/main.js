@@ -98,10 +98,70 @@
 //  }
 
 
-for (var i = 100; i >= 0; i-=5) {
-    console.log(i);
+// for (var i = 100; i >= 0; i-=5) {
+//     console.log(i);
+// }
+
+var data = [{
+    monan: "Tôm Hấp Nước Dừa",
+    gia: 300000,
+    anh: "tomnuong.jfif"
+  },
+  {
+    monan: "Cua Đá Nướng Mọi",
+    gia: 400000,
+    anh: "cuada.jfif"
+  },
+  {
+    monan: "Cá lóc Nướng Mọi",
+    gia: 200000,
+    anh: "caloc.jfif"
+  },
+  {
+    monan: "Cáu lóc Nướng Mọi",
+    gia: 200000,
+    anh: "caloc.jfif"
+  },
+  {
+    monan: "Cáo lóc Nướng Mọi",
+    gia: 200000,
+    anh: "caloc.jfif"
+  },
+]
+
+var arr = [2,5,6,7,3,4,66,4,[3,5,6,33,3,5,3],5,3,34,23,34,6,3,4,[3],6,2,3,5,2,3]
+var totalMonAn = data.reduce((a,b) => a+b.gia,0);
+
+// console.log(tt);
+
+var showArray = data.reduce((a,b) => a.concat(b.monan),[])
+var showArray1 = data.reduce((a,b) => a.concat(b.gia),[])
+var showArray2 = data.reduce((a,b) => a.concat(b.anh),[])
+// console.log(showArray)
+// console.log(showArray1)
+// console.log(showArray2)
+
+// console.log(dataJs)
+
+
+// console.log(Math.random()%2==0)
+
+var callback = data.reduce((a,b) => b.monan.includes('Cua')?this:b.monan,1)
+// console.log(callback)
+
+data.forEach(e => {
+  console.log(e.monan)
+})
+
+var forArr = function(){
+  for (var a in data) {
+    console.log(a)
+  }
 }
-
-
-
+function forEach2(cons){
+  for (var a in data) {
+    console.log(a)
+  }
+}
+data.forEach2(cons)
 

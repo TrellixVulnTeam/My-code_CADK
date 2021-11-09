@@ -7,11 +7,12 @@ def check_duyen(nguoiNam,nguoiNu):
             dem = dem + 1;
     
     if dem == 0:
-        return ('Người dưng nước lã!');
-    elif dem < 3:
-        return ('friend zone');
-    else:
-        return ('Hai bạn rất hợp nhau');
+        rsl =  ('Người dưng nước lã!');
+    elif dem <= 3:
+        rsl = ('friend zone');
+    elif dem > 3:
+        rsl = ('Hai bạn rất hợp nhau');
+    return rsl;
 
 
 # ---------

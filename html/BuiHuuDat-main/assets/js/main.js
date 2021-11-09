@@ -127,8 +127,8 @@ let swiperTestimonial = new Swiper(".testimonial__container", {
         }
     }
 });
-const sections = document.querySelectorAll('section[id]')
 
+const sections = document.querySelectorAll('section[id]')
 function scrollActive() {
     const scrollY = window.pageYOffset
     sections.forEach(current => {
@@ -136,7 +136,8 @@ function scrollActive() {
         const sectionTop = current.offsetTop - 50;
         sectionId = current.getAttribute('id')
         if (scrollY > sectionTop && scrollY <= sectionTop + sectionHeight) {
-            document.querySelector('.nav__menu a[href*=' + sectionId + ']').classList.add('active-link')
+          console.log('.nav__menu a[href*=' + sectionId + ']')
+          document.querySelector('.nav__menu a[href*=' + sectionId + ']').classList.add('active-link')
         } else {
             document.querySelector('.nav__menu a[href*=' + sectionId + ']').classList.remove('active-link')
         }
@@ -155,11 +156,7 @@ function scrollUp() {
     const scrollUp = document.getElementById('scroll-up');
     if (this.scrollY >= 560) scrollUp.classList.add('show-scroll');
     else scrollUp.classList.remove('show-scroll')
-    document.getElementById('scroll-up').addEventListener("click", function () {
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-        document.getAnimations
-    })
+    
 }
 window.addEventListener('scroll', scrollUp)
 const themeButton = document.getElementById('theme-toggle')
