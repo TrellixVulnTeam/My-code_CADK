@@ -1,3 +1,5 @@
+document.addEventListener('contextmenu', event => event.preventDefault());
+
 var typed = new Typed(".typing_home", {
     strings: ["Developer", "Designer", "Freelance"],
     typeSpeed: 100,

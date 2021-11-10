@@ -129,14 +129,14 @@ var data = [{
   },
 ]
 
-var arr = [2,5,6,7,3,4,66,4,[3,5,6,33,3,5,3],5,3,34,23,34,6,3,4,[3],6,2,3,5,2,3]
-var totalMonAn = data.reduce((a,b) => a+b.gia,0);
+// var arr = [2,5,6,7,3,4,66,4,[3,5,6,33,3,5,3],5,3,34,23,34,6,3,4,[3],6,2,3,5,2,3]
+// var totalMonAn = data.reduce((a,b) => a+b.gia,0);
 
 // console.log(tt);
 
-var showArray = data.reduce((a,b) => a.concat(b.monan),[])
-var showArray1 = data.reduce((a,b) => a.concat(b.gia),[])
-var showArray2 = data.reduce((a,b) => a.concat(b.anh),[])
+// var showArray = data.reduce((a,b) => a.concat(b.monan),[])
+// var showArray1 = data.reduce((a,b) => a.concat(b.gia),[])
+// var showArray2 = data.reduce((a,b) => a.concat(b.anh),[])
 // console.log(showArray)
 // console.log(showArray1)
 // console.log(showArray2)
@@ -146,22 +146,42 @@ var showArray2 = data.reduce((a,b) => a.concat(b.anh),[])
 
 // console.log(Math.random()%2==0)
 
-var callback = data.reduce((a,b) => b.monan.includes('Cua')?this:b.monan,1)
-// console.log(callback)
+// var callback = data.reduce((a,b) => b.monan.includes('Cua')?this:b.monan,1)
+// // console.log(callback)
 
-data.forEach(e => {
-  console.log(e.monan)
-})
+// data.forEach(e => {
+//   console.log(e.monan)
+// })
 
-var forArr = function(){
-  for (var a in data) {
-    console.log(a)
+// var forArr = function(){
+//   for (var a in data) {
+//     console.log(a)
+//   }
+// }
+// function forEach2(cons){
+//   for (var a in data) {
+//     console.log(a)
+//   }
+// }
+// data.forEach2(cons)
+
+
+// function deQuy(num){
+//   if (num <= 0) {
+//     return num;
+//   }
+//   console.log(num);
+//   deQuy(num-1);
+// }
+
+// deQuy(10)
+
+
+function giaiThua(num){
+  if(num<=0) {
+    return 1;
   }
+  return num * giaiThua(num-1);
 }
-function forEach2(cons){
-  for (var a in data) {
-    console.log(a)
-  }
-}
-data.forEach2(cons)
 
+console.log(giaiThua(7))
