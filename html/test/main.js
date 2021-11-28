@@ -1,187 +1,259 @@
-//confirm('Xac nhan ban du tuoi') //hien thi thong bao xac nhan
-//prompt('xac nhan ban du tuoi') // giong ham confirm nhung hien them o massage
+var root = document.getElementById('root');
 
-// set time chay code
-// setTimeout(function() {
-//     alert('dat')
-// },1000)
-
-// setInterval(function() {
-//     var i = 0; i=i+1
-//     console.log('i = '+ Math.random())
-// },1000)
-
-// var a = 2
-// var b = 6
-// console.log(a+b)//8
-// console.log(a-b)//-4
-// console.log(a*b)//12
-// console.log(a/b)//0.3333
-// console.log(a**b)//64
-// console.log(a++)//3
-// // console.log(b--)//6
-// console.log(--a)//1
-// console.log(++b)//1
-
-
-// var myObject = [ 
-//     'dat',
-//     12,
-// ]
-
-// console.log(myObject)
-
-
-
-// result = NaN || 'B' || null || 'D'
-
-// console.log(result)
-// if (result){
-//     console.log('true');
-// }else{
-//     console.log('false');
-// // }
-
-// let users = function(firstName, lastName, old, sex, gmail) {
-//     this.firstName = firstName;
-//     this.lastName = lastName;
-//     this.old = old;
-//     this.sex = sex;
-//     this.gmail = gmail;
-//     this.getName = function(lenght){
-//         this.lenght = lenght;
-//         return `${this.firstName} ${this.lastName}`;
-//     }
-// }
-
-// let a = new users('Bui Huu', 'Dat', 12, 'Nam','dat54261001@gmail.com',1.7);
-// let b = new users('Truong Thi Quynh', 'Hoa', 12, 'Nu','QuynhHoa@gmail.com');
-
-// console.log(a.getName.length);
-// console.log(b);
-
-
-
-// var date = new Date();
-// var year = date.getFullYear();
-// var month = date.getMonth();
-// console.log(typeof year)
-// console.log(month) + 1;
-// console.log(date.getDay());
-
-
-// switch (3) {
-//     case 2:
-//         console.log('Hom nay la thu 2')
-//         break;
-//     case 3:
-//         console.log('Hom nay la thu 3')
-//         break;
-//     case 4:
-//         console.log('Hom nay la thu 4')
-//         break;
-//     case 5:
-//         console.log('Hom nay la thu 5')
-//         break;
-//     case 6:
-//         console.log('Hom nay la thu 7')
-//         break;
-//     case 8:
-//         console.log('Hom nay la Chu Nhat')
-//         break;
-//     case 2:
-//         console.log('Hom nay la thu 2')
-//         break;
-
-//     default:
-//         break;
-//  }
-
-
-// for (var i = 100; i >= 0; i-=5) {
-//     console.log(i);
-// }
-
-var data = [{
-    monan: "Tôm Hấp Nước Dừa",
-    gia: 300000,
-    anh: "tomnuong.jfif"
+const courses =  [
+  {
+    "id": 2,
+    "title": "HTML, CSS từ Zero đến Hero",
+    "slug": "html-css",
+    "description": "Trong khóa này chúng ta sẽ cùng nhau xây dựng giao diện 2 trang web là The Band & Shopee.",
+    "thumbnail": "courses/2.png",
+    "content": null,
+    "preview_origin": "youtube",
+    "preview_youtube_id": "R6plN3FvzFY",
+    "preview_path": null,
+    "language": "html",
+    "syntax_highligh": "language-html",
+    "level": "Trình độ cơ bản",
+    "priority": 10,
+    "students_count": 77597,
+    "deleted_at": null,
+    "created_at": "2020-04-10T14:23:13.000000Z",
+    "updated_at": "2021-11-20T10:10:13.000000Z",
+    "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/2.png"
   },
   {
-    monan: "Cua Đá Nướng Mọi",
-    gia: 400000,
-    anh: "cuada.jfif"
+    "id": 1,
+    "title": "JavaScript Cơ Bản",
+    "slug": "javascript-co-ban",
+    "description": "Học Javascript cơ bản phù hợp cho người chưa từng học lập trình. Với hơn 100 bài học và có bài tập thực hành sau mỗi bài học.",
+    "thumbnail": "courses/1.png",
+    "content": null,
+    "preview_origin": "youtube",
+    "preview_youtube_id": "0SJE9dYdpps",
+    "preview_path": null,
+    "language": "javascript",
+    "syntax_highligh": "language-javascript",
+    "level": "Trình độ cơ bản",
+    "priority": 30,
+    "students_count": 49848,
+    "deleted_at": null,
+    "created_at": "2020-06-10T14:23:13.000000Z",
+    "updated_at": "2021-11-20T10:11:37.000000Z",
+    "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/1.png"
   },
   {
-    monan: "Cá lóc Nướng Mọi",
-    gia: 200000,
-    anh: "caloc.jfif"
+    "id": 7,
+    "title": "Kiến Thức Nhập Môn",
+    "slug": "lessons-for-newbie",
+    "description": "Để có cái nhìn tổng quan về ngành IT - Lập trình web các bạn nên xem các videos tại khóa này trước nhé.",
+    "thumbnail": "courses/7.png",
+    "content": null,
+    "preview_origin": "youtube",
+    "preview_youtube_id": "M62l1xA5Eu8",
+    "preview_path": null,
+    "language": null,
+    "syntax_highligh": null,
+    "level": "Trình độ cơ bản",
+    "priority": 0,
+    "students_count": 37318,
+    "deleted_at": null,
+    "created_at": "2020-02-10T14:23:13.000000Z",
+    "updated_at": "2021-11-20T09:49:08.000000Z",
+    "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/7.png"
   },
   {
-    monan: "Cáu lóc Nướng Mọi",
-    gia: 200000,
-    anh: "caloc.jfif"
+    "id": 3,
+    "title": "Responsive Với Grid System",
+    "slug": "responsive-web-design",
+    "description": "Trong khóa này chúng ta sẽ học về cách xây dựng giao diện web responsive với Grid System, tương tự Bootstrap 4.",
+    "thumbnail": "courses/3.png",
+    "content": null,
+    "preview_origin": "youtube",
+    "preview_youtube_id": "uz5LIP85J5Y",
+    "preview_path": null,
+    "language": "html",
+    "syntax_highligh": "language-html",
+    "level": "Trình độ cơ bản",
+    "priority": 20,
+    "students_count": 15416,
+    "deleted_at": null,
+    "created_at": "2020-05-10T14:23:13.000000Z",
+    "updated_at": "2021-11-20T09:39:22.000000Z",
+    "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/3.png"
   },
   {
-    monan: "Cáo lóc Nướng Mọi",
-    gia: 200000,
-    anh: "caloc.jfif"
+    "id": 6,
+    "title": "Node & ExpressJS",
+    "slug": "nodejs",
+    "description": "Học Back-end với Node & ExpressJS framework, hiểu các khái niệm khi làm Back-end và xây dựng RESTful API cho trang web.",
+    "thumbnail": "courses/6.png",
+    "content": null,
+    "preview_origin": "youtube",
+    "preview_youtube_id": "z2f7RHgvddc",
+    "preview_path": null,
+    "language": "javascript",
+    "syntax_highligh": "language-javascript",
+    "level": "Trình độ cơ bản",
+    "priority": 32,
+    "students_count": 13323,
+    "deleted_at": null,
+    "created_at": "2020-08-01T14:23:13.000000Z",
+    "updated_at": "2021-11-20T09:08:02.000000Z",
+    "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/6.png"
   },
+  {
+    "id": 5,
+    "title": "HTML, CSS Tips & Tricks",
+    "slug": "html-css-tutorials",
+    "description": "Tutorials về HTML, CSS, UI, UX sẽ được tổng hợp tại khóa học này, các video có nội dung ngắn gọn, súc tích giúp học viên có thể ứng dụng ngay vào thực tế",
+    "thumbnail": "courses/5.png",
+    "content": null,
+    "preview_origin": "youtube",
+    "preview_youtube_id": "nB6cJh_bb1U",
+    "preview_path": null,
+    "language": "html",
+    "syntax_highligh": "language-html",
+    "level": "Trình độ cơ bản",
+    "priority": 40,
+    "students_count": 10025,
+    "deleted_at": null,
+    "created_at": "2020-03-10T14:23:13.000000Z",
+    "updated_at": "2021-11-20T08:28:59.000000Z",
+    "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/5.png"
+  },
+  {
+    "id": 13,
+    "title": "ReactJS",
+    "slug": "reactjs",
+    "description": "Khóa học ReactJS từ cơ bản tới nâng cao, kết quả của khóa học này là bạn có thể làm hầu hết các dự án thường gặp với ReactJS. Cuối khóa học này bạn sẽ sở hữu một dự án giống Tiktok.com, bạn có thể tự tin đi xin việc khi nắm chắc các kiến thức được chia sẻ trong khóa học này.",
+    "thumbnail": "courses/13/13.png",
+    "content": null,
+    "preview_origin": "youtube",
+    "preview_youtube_id": "x0fSBAgBrOQ",
+    "preview_path": null,
+    "language": "javascript",
+    "syntax_highligh": "language-jsx",
+    "level": "Trình độ trung bình",
+    "priority": 0,
+    "students_count": 8430,
+    "deleted_at": null,
+    "created_at": null,
+    "updated_at": "2021-11-20T10:09:08.000000Z",
+    "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/13/13.png"
+  },
+  {
+    "id": 12,
+    "title": "JavaScript Nâng Cao",
+    "slug": "javascript-nang-cao",
+    "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ...",
+    "thumbnail": "courses/12.png",
+    "content": null,
+    "preview_origin": "youtube",
+    "preview_youtube_id": "MGhw6XliFgo",
+    "preview_path": null,
+    "language": "javascript",
+    "syntax_highligh": "language-javascript",
+    "level": "Trình độ nâng cao",
+    "priority": 31,
+    "students_count": 8399,
+    "deleted_at": null,
+    "created_at": "2021-04-03T14:23:13.000000Z",
+    "updated_at": "2021-11-20T09:59:07.000000Z",
+    "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/12.png"
+  },
+  {
+    "id": 4,
+    "title": "Don't Touch Your Face",
+    "slug": "tool-canh-bao-so-len-mat",
+    "description": "Xây dựng ứng dụng đưa ra cảnh báo khi người dùng sờ tay lên mặt. Chúng ta sẽ sử dụng thư viện ReactJS & Tensoflow để hoàn thiện ứng dụng này.",
+    "thumbnail": "courses/4/4.jpeg",
+    "content": null,
+    "preview_origin": "youtube",
+    "preview_youtube_id": "r6GWbQL-qwA",
+    "preview_path": null,
+    "language": "javascript",
+    "syntax_highligh": "language-javascript",
+    "level": "Trình độ cơ bản",
+    "priority": 50,
+    "students_count": 3637,
+    "deleted_at": null,
+    "created_at": "2020-01-10T14:23:13.000000Z",
+    "updated_at": "2021-11-19T21:45:50.000000Z",
+    "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/4/4.jpeg"
+  }
 ]
 
-// var arr = [2,5,6,7,3,4,66,4,[3,5,6,33,3,5,3],5,3,34,23,34,6,3,4,[3],6,2,3,5,2,3]
-// var totalMonAn = data.reduce((a,b) => a+b.gia,0);
-
-// console.log(tt);
-
-// var showArray = data.reduce((a,b) => a.concat(b.monan),[])
-// var showArray1 = data.reduce((a,b) => a.concat(b.gia),[])
-// var showArray2 = data.reduce((a,b) => a.concat(b.anh),[])
-// console.log(showArray)
-// console.log(showArray1)
-// console.log(showArray2)
-
-// console.log(dataJs)
-
-
-// console.log(Math.random()%2==0)
-
-// var callback = data.reduce((a,b) => b.monan.includes('Cua')?this:b.monan,1)
-// // console.log(callback)
-
-// data.forEach(e => {
-//   console.log(e.monan)
-// })
-
-// var forArr = function(){
-//   for (var a in data) {
-//     console.log(a)
-//   }
-// }
-// function forEach2(cons){
-//   for (var a in data) {
-//     console.log(a)
-//   }
-// }
-// data.forEach2(cons)
-
-
-// function deQuy(num){
-//   if (num <= 0) {
-//     return num;
-//   }
-//   console.log(num);
-//   deQuy(num-1);
-// }
-
-// deQuy(10)
-
-
-function giaiThua(num){
-  if(num<=0) {
-    return 1;
-  }
-  return num * giaiThua(num-1);
+function SoursesItem ({
+  id,
+  title,
+  description,
+  language,
+  level,
+  studentsCount,
+  image,
+  onClick,
+  Button
+}) {
+  return (
+    <div className="couse-items">
+      <div className="cous-img"><img src={image}/></div>
+      <h3 className="cours-id">ID: {id}</h3>
+      <h1
+        className="cours-title"
+        style={{cursor:"pointer"}}
+        onClick={onClick}
+      >
+        {title}
+      </h1>
+      <h2 className="cours-desc">{description}</h2>
+      <h3 className="cours-lang">Languege: {language}</h3>
+      <h4 className="cours-level">{level}</h4>
+      <p className="cours-count-stu">Studens count: {studentsCount}</p>
+      <div>{Button(...Button)}</div>
+    </div>
+  )
 }
 
-console.log(giaiThua(7))
+const handleClick = (title) => {
+  console.log(title)
+}
+
+function Button ({ ...Button }) {
+  let Component = 'button'
+  const props = {}
+  if(href) {
+    props.href = href
+  }
+  if(onClick) {
+    props.onClick = onClick
+  }
+  return (
+    <Component {...props}>{title}</Component>
+  )
+}
+
+const App =(
+  <div id="wrapper">
+    {courses.map((course,i) => (
+      <SoursesItem
+        key = {i}
+        id = {course.id}
+        title = {course.title}
+        description = {course.description}
+        language = {course.language}
+        level = {course.level}
+        studentsCount = {course.students_count}
+        image = {course.thumbnail_cdn}
+        onClick = {() => {handleClick(course.title)}}
+        Button = {() => {
+          <Button title="Click me"
+          href= "https://google.com"
+          onClick = {()=>{}}
+          />
+        }}
+      />
+    ))}
+  </div>
+)
+
+ReactDOM.render (App, root)
