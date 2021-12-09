@@ -5,7 +5,6 @@ class SearchController {
   showSearch(req, res) {
     res.send('New search')
   }
-
 }
 
 export default new SearchController;

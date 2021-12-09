@@ -1,3 +1,7 @@
+var old = document.getElementById('old');
+const dateTime = new Date();
+old.innerText = dateTime.getFullYear() - 2001;
+
 document.addEventListener('contextmenu', event => event.preventDefault());
 
 var typed = new Typed(".typing_home", {
@@ -138,7 +142,6 @@ function scrollActive() {
         const sectionTop = current.offsetTop - 50;
         sectionId = current.getAttribute('id')
         if (scrollY > sectionTop && scrollY <= sectionTop + sectionHeight) {
-          console.log('.nav__menu a[href*=' + sectionId + ']')
           document.querySelector('.nav__menu a[href*=' + sectionId + ']').classList.add('active-link')
         } else {
             document.querySelector('.nav__menu a[href*=' + sectionId + ']').classList.remove('active-link')
