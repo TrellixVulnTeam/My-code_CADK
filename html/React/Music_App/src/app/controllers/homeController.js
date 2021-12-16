@@ -1,9 +1,9 @@
-const video = require('../models/videos');
+const Video = require('../models/videos');
 const { multipleMongooseToObject } = require('../../util/mongoose');
 
 class HomeController {
   index(req, res, next) {
-    video.find({})
+    Video.find({})
       .then(video => {
         res.render('home', {
           video: multipleMongooseToObject(video),
@@ -16,13 +16,17 @@ class HomeController {
     res.send('show home');
   }
 
-  add(req, res, next ) {
-    req.body.image = `https://img.youtube.com/vi/${req.body.id_yt}/sddefault.jpg`;
-    const video = new video(req.body);
-    video
-      .save()
-      .then(() => res.redirect('/'))
-      .catch(error => {});
+  create(req, res) {
+    res.render('/create');
+  }
+
+  adds(req, res, next ) {
+    // req.body.image = `https://img.youtube.com/vi/${req.body.id_yt}/sddefault.jpg`;
+    // const video = new Video(req.body);
+    // video
+    //   .save()
+    //   .then(() => res.redirect('/'))
+    //   .catch(error => {});
   }
 }
 
