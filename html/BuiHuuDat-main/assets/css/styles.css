@@ -1387,6 +1387,11 @@ section .section__subtitle::after {
 
 /*==================== CONTACT ME ====================*/
 
+.vl {
+  border-left: 3px solid var(--first-color);
+  transition: .3s ease;
+}
+
 .contact .section__subtitle::after {
     content: "Get in touch";
     transition: .3s ease;
@@ -1396,15 +1401,23 @@ section .section__subtitle::after {
     row-gap: 3rem;
 }
 
+.contact__informations {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: space-between;
+}
+
 .contact__information {
+  width: 30%;
     display: flex;
+    flex-direction: column;
     margin-bottom: var(--mb-2);
 }
 
 .contact__icon {
-    font-size: 2rem;
+    font-size: 3.5rem;
     color: var(--first-color);
-    margin-right: var(--mb-0-75);
 }
 
 .contact__title {
@@ -1436,7 +1449,7 @@ section .section__subtitle::after {
     font-size: var(--normal-font-size);
     border: none;
     outline: none;
-    padding: .25rem .5rem .5rem 0;
+    padding: 1.25rem .5rem .5rem;
     resize: none;
 }
 .contact__buttons{
@@ -1444,6 +1457,12 @@ section .section__subtitle::after {
 }
 .contact__button--icon:hover{
     transform: translateY(.25rem);
+}
+
+.contact__container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
 }
 
 /*==================== FOOTER ====================*/
@@ -1664,6 +1683,21 @@ section .section__subtitle::after {
         text-align: center;
     }
 
+    .contact__informations {
+      flex-direction: column;
+    }
+    .contact__information {
+      width: 100%;
+      flex-direction: row;
+      text-align: start;
+      margin-bottom: var(--mb-2);
+    }
+
+    .contact__icon {
+      font-size: 2rem;
+      margin-right: .5rem;
+    }
+
     .ir{
         width: 45px;
         height: 45px;
@@ -1674,7 +1708,29 @@ section .section__subtitle::after {
         margin-top: var(--mb-1-5);
     }
 }
+@media screen and (max-width: 567px) {
+  .contact .section__subtitle::before{
+    width: 120px;
+}
+.contact__buttons{
+    text-align: center;
+}
 
+.contact__informations {
+  flex-direction: column;
+}
+.contact__information {
+  width: 100%;
+  flex-direction: row;
+  text-align: start;
+  margin-bottom: var(--mb-2);
+}
+
+.contact__icon {
+  font-size: 2rem;
+  margin-right: .5rem;
+}
+}
 /* For medium devices */
 @media screen and (min-width: 568px) {
     .home__content{
@@ -1689,8 +1745,7 @@ section .section__subtitle::after {
     }
     .about__container,
     .skills__container,
-    .project__content,
-    .contact__container{
+    .project__content{
         grid-template-columns: repeat(2, 1fr);
     }
 

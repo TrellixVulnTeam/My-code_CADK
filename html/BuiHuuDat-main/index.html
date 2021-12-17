@@ -1001,63 +1001,62 @@
             <h2 class="section__title">Contact Me</h2>
             <span class="section__subtitle"></span>
 
-            <div class="contact__container container grid">
-                <div>
+            <div class="contact__container container">
+                <div class="contact__informations">
                     <div class="contact__information">
                         <i class="uil uil-phone contact__icon"></i>
-
                         <div>
-                            <h3 class="contact__title">Call Me</h3>
-                            <span class="contact__subtitle">+84 98765.1053</span>
+                          <h3 class="contact__title">Call Me</h3>
+                          <span class="contact__subtitle">+84 98765.1053</span>
                         </div>
                     </div>
+                    <span class="vl"></span>
                     <div class="contact__information">
                         <i class="uil uil-envelope contact__icon"></i>
-
                         <div>
-                            <h3 class="contact__title">Email</h3>
-                            <span class="contact__subtitle">buihuudat.dev@gmail.com</span>
+                          <h3 class="contact__title">Email</h3>
+                          <span class="contact__subtitle">buihuudat.dev@gmail.com</span>
                         </div>
                     </div>
+                    <span class="vl"></span>
                     <div class="contact__information">
                         <i class="uil uil-map-marker contact__icon"></i>
-
                         <div>
-                            <h3 class="contact__title">Location</h3>
-                            <span class="contact__subtitle">216 Nguyen Van Cong ward 3 Go Vap HCM City </span>
+                          <h3 class="contact__title">Location</h3>
+                          <span class="contact__subtitle">216 Nguyen Van Cong ward 3 Go Vap HCM City </span>
                         </div>
                     </div>
                 </div>
-                <form action="" class="contact__form grid">
+                <form action="mailto:you@yourwebsite.com" method="post" class="contact__form grid">
                     <div class="contact__inputs grid">
                         <div class="contact__content">
                             <div class="underline"></div>
                             <label for="" class="contact__label">Name</label>
-                            <input type="text" class="contact__input">
+                            <input type="text" name="name" class="contact__input">
                         </div>
                         <div class="contact__content">
                             <label for="" class="contact__label">Email</label>
-                            <input type="email" class="contact__input">
+                            <input type="email" name="email" class="contact__input">
                         </div>
                     </div>
                     <div class="contact__content">
                         <label for="" class="contact__label">Project</label>
-                        <input type="text" class="contact__input">
+                        <input type="text" name="project" class="contact__input">
                     </div>
                     <div class="contact__content">
                         <label for="" class="contact__label">Message</label>
-                        <textarea name="" id="" cols="0" rows="7" class="contact__input"></textarea>
+                        <textarea name="" name="message" id="" cols="0" rows="7" class="contact__input"></textarea>
                     </div>
 
                     <div class="contact__buttons">
-                        <a href="" class="button button--flex btns--hover--translateY contact__button">
+                        <button type="submit" class="button button--flex btns--hover--translateY contact__button">
                             Send Message
                             <span></span>
                             <span></span>
                             <span></span>
                             <span></span>
                             <i class="uil uil-message button__icon contact__button--icon btns-hover-icon"></i>
-                        </a>
+                        </button>
                     </div>
                 </form>
             </div>
