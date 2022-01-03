@@ -90,14 +90,19 @@
 <form action="" method="post" id="delete-form"></form>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function() { var videoID; var
-  delForm = document.forms['delete-form']; var btnDelVid =
-  document.getElementById('delete-video');
+  document.addEventListener('DOMContentLoaded', function() { 
+  var videoID; 
+  var delForm = document.forms['delete-form']; 
+  var btnDelVid = document.getElementById('delete-video');
   {{! get id }}
-  $('#deleteVideo').on('show.bs.modal', function(e) { var button =
-  $(e.relatedTarget); videoID = button.data('id'); });
+  $('#deleteVideo').on('show.bs.modal', function(e) { 
+    var button = $(e.relatedTarget); 
+    videoID = button.data('id'); 
+  });
 
   {{! on click del }}
-  btnDelVid.onclick = function() { delForm.action = '/my-app/' + videoID + '/delete' +
-  '?_method=delete'; delForm.submit(); } })
+  btnDelVid.onclick = function() { 
+    delForm.action = '/my-app/' + videoID + '/delete' +
+  '?_method=delete'; 
+  delForm.submit(); } })
 </script>
